@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1,VIP IL: IBA Channel 1 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3298.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch1
+#EXTINF:-1,VIP IL: Channel 2
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3299.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch2
+#EXTINF:-1,VIP IL: Channel 10
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3300.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch10
+#EXTINF:-1,VIP IL: Channel 20
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3301.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch20
+#EXTINF:-1,VIP IL: Channel 2 News
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8144.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch2news
+#EXTINF:-1,VIP IL: Channel 24
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3303.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch24
+#EXTINF:-1,VIP IL: Channel YES 1 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5954.ts&amp;streamtype=TSDOWNLOADER&am&title=yes1hd
+#EXTINF:-1,VIP IL: Channel YES 2 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5953.ts&amp;streamtype=TSDOWNLOADER&am&title=yes2hd
+#EXTINF:-1,VIP IL: Channel YES 3 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5952.ts&amp;streamtype=TSDOWNLOADER&am&title=yes3hd
+#EXTINF:-1,VIP IL: Channel YES 4 HD 
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5951.ts&amp;streamtype=TSDOWNLOADER&am&title=yes4hd
+#EXTINF:-1,VIP IL: Channel YES 5 HD 
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6100.ts&amp;streamtype=TSDOWNLOADER&am&title=yes5hd
+#EXTINF:-1,VIP IL: Channel YES OH HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5947.ts&amp;streamtype=TSDOWNLOADER&am&title=yesoh
+#EXTINF:-1,VIP IL: Channel YES ACTION HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5950.ts&amp;streamtype=TSDOWNLOADER&am&title=yesaction
+#EXTINF:-1,VIP IL: Channel YES DRAMA HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5948.ts&amp;streamtype=TSDOWNLOADER&am&title=yesdrama
+#EXTINF:-1,VIP IL: Channel YES DOCU HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6099.ts&amp;streamtype=TSDOWNLOADER&am&title=yesdocu
+#EXTINF:-1,VIP IL: Channel YES COMEDY HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5949.ts&amp;streamtype=TSDOWNLOADER&am&title=yescomedy
+#EXTINF:-1,VIP IL: Channel YES CINEMA HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6098.ts&amp;streamtype=TSDOWNLOADER&am&title=yescinema
+#EXTINF:-1,VIP IL: Channel HOT 3 
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6106.ts&amp;streamtype=TSDOWNLOADER&am&title=hot3
+#EXTINF:-1,VIP IL: Channel HOT ZONE
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6107.ts&amp;streamtype=TSDOWNLOADER&am&title=hotzone
+#EXTINF:-1,VIP IL: Channel HOT DRAMA
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6108.ts&amp;streamtype=TSDOWNLOADER&am&title=hotdrama
+#EXTINF:-1,VIP IL: Channel HOT ACTION
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5960.ts&amp;streamtype=TSDOWNLOADER&am&title=hotaction
+#EXTINF:-1,VIP IL: Channel HOT HBO
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6110.ts&amp;streamtype=TSDOWNLOADER&am&title=hothbo
+#EXTINF:-1,VIP IL: Channel HOT GOLD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5961.ts&amp;streamtype=TSDOWNLOADER&am&title=hotgold
+#EXTINF:-1,VIP IL: Channel HOT FUN
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6109.ts&amp;streamtype=TSDOWNLOADER&am&title=hotfun
+#EXTINF:-1,VIP IL: Channel HOT COMEDY	
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6104.ts&amp;streamtype=TSDOWNLOADER&am&title=hotcomedy
+#EXTINF:-1,VIP IL: Channel HOT ENTERTAINMENT
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6102.ts&amp;streamtype=TSDOWNLOADER&am&title=hotent
+#EXTINF:-1,VIP IL: Channel HOT ZOOM
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8146.ts&amp;streamtype=TSDOWNLOADER&am&title=hotzoom
+#EXTINF:-1,VIP IL: Channel HOP
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6114.ts&amp;streamtype=TSDOWNLOADER&am&title=hop
+#EXTINF:-1,VIP IL: Channel HOME PLUS
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6103.ts&amp;streamtype=TSDOWNLOADER&am&title=homeplus
+#EXTINF:-1,VIP IL: Channel A.HAYELADIM
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3340.ts&amp;streamtype=TSDOWNLOADER&am&title=arutzyeladim
+#EXTINF:-1,VIP IL: Channel HOT 8
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8141.ts&amp;streamtype=TSDOWNLOADER&am&title=ch8
+#EXTINF:-1,VIP IL: Channel DISCOVERY
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7342.ts&amp;streamtype=TSDOWNLOADER&am&title=hotdiscovery
+#EXTINF:-1,VIP IL: Channel HISTORY
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8142.ts&amp;streamtype=TSDOWNLOADER&am&title=historyhd
+#EXTINF:-1,VIP IL: Channel NATIONAL GEO WILD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7344.ts&amp;streamtype=TSDOWNLOADER&am&title=natgeowild
+#EXTINF:-1,VIP IL: Channel TRAVEL 
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7340.ts&amp;streamtype=TSDOWNLOADER&am&title=travel
+#EXTINF:-1,VIP IL: Channel FOOD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7341.ts&amp;streamtype=TSDOWNLOADER&am&title=food
+#EXTINF:-1,VIP IL: Channel One HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5956.ts&amp;streamtype=TSDOWNLOADER&am&title=one
+#EXTINF:-1,VIP IL: Channel YES Sport 1 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5958.ts&amp;streamtype=TSDOWNLOADER&am&title=yessport1
+#EXTINF:-1,VIP IL: Channel Yes Sport 2 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5957.ts&amp;streamtype=TSDOWNLOADER&am&title=yessport2
+#EXTINF:-1,VIP IL: Channel FOX Sport HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3341.ts&amp;streamtype=TSDOWNLOADER&am&title=foxsport
+#EXTINF:-1,VIP IL: Channel Sport 5 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5955.ts&amp;streamtype=TSDOWNLOADER&am&title=ilsport5
+#EXTINF:-1,VIP IL: Channel Sport 5 Live HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5959.ts&amp;streamtype=TSDOWNLOADER&am&title=sport5live
+#EXTINF:-1,VIP IL: Channel Sport 5 Online
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8140.ts&amp;streamtype=TSDOWNLOADER&am&title=sport5online
+#EXTINF:-1,VIP IL: Channel NICKELODEON
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6112.ts&amp;streamtype=TSDOWNLOADER&am&title=nickeldeon
+#EXTINF:-1,VIP IL: Channel NICKELODEON JR
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6113.ts&amp;streamtype=TSDOWNLOADER&am&title=nickjr
+#EXTINF:-1,VIP IL: Channel BABY TV
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6111.ts&amp;streamtype=TSDOWNLOADER&am&title=babytv
+#EXTINF:-1,VIP IL: Channel Junior
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8143.ts&amp;streamtype=TSDOWNLOADER&am&title=junioril
+#EXTINF:-1,VIP IL: Channel IL LAND
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7343.ts&amp;streamtype=TSDOWNLOADER&am&title=illand
+#EXTINF:-1,VIP IL: Channel VIVA
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6101.ts&amp;streamtype=TSDOWNLOADER&am&title=viva
