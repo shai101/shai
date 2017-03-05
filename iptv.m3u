@@ -1,97 +1,49 @@
 #EXTM3U
-2
 #EXTINF:-1,IBA Channel 1 HD
-3
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3298.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch1
-4
 #EXTINF:-1,Channel 2
-5
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3299.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch2
-6
 #EXTINF:-1,Channel 10
-7
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3300.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch10
-8
 #EXTINF:-1,Channel 20
-9
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3301.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch20
-10
 #EXTINF:-1,Channel 2 News
-11
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8144.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch2news
-12
 #EXTINF:-1,Channel 24
-13
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3303.ts&amp;streamtype=TSDOWNLOADER&am&title=Ch24
-14
 #EXTINF:-1,YES 1 HD
-15
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5954.ts&amp;streamtype=TSDOWNLOADER&am&title=yes1hd
-16
 #EXTINF:-1,YES 2 HD
-17
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5953.ts&amp;streamtype=TSDOWNLOADER&am&title=yes2hd
-18
 #EXTINF:-1,YES 3 HD
-19
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5952.ts&amp;streamtype=TSDOWNLOADER&am&title=yes3hd
-20
 #EXTINF:-1,YES 4 HD 
-21
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5951.ts&amp;streamtype=TSDOWNLOADER&am&title=yes4hd
-22
 #EXTINF:-1,YES 5 HD 
-23
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6100.ts&amp;streamtype=TSDOWNLOADER&am&title=yes5hd
-24
 #EXTINF:-1,YES OH HD
-25
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5947.ts&amp;streamtype=TSDOWNLOADER&am&title=yesoh
-26
 #EXTINF:-1,YES ACTION HD
-27
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5950.ts&amp;streamtype=TSDOWNLOADER&am&title=yesaction
-28
 #EXTINF:-1,YES DRAMA HD
-29
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5948.ts&amp;streamtype=TSDOWNLOADER&am&title=yesdrama
-30
 #EXTINF:-1,YES DOCU HD
-31
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6099.ts&amp;streamtype=TSDOWNLOADER&am&title=yesdocu
-32
 #EXTINF:-1,YES COMEDY HD
-33
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5949.ts&amp;streamtype=TSDOWNLOADER&am&title=yescomedy
-34
 #EXTINF:-1,YES CINEMA HD
-35
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6098.ts&amp;streamtype=TSDOWNLOADER&am&title=yescinema
-36
 #EXTINF:-1,HOT 3 
-37
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6106.ts&amp;streamtype=TSDOWNLOADER&am&title=hot3
-38
 #EXTINF:-1,HOT ZONE
-39
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6107.ts&amp;streamtype=TSDOWNLOADER&am&title=hotzone
-40
 #EXTINF:-1,HOT DRAMA
-41
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6108.ts&amp;streamtype=TSDOWNLOADER&am&title=hotdrama
-42
 #EXTINF:-1,HOT ACTION
-43
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5960.ts&amp;streamtype=TSDOWNLOADER&am&title=hotaction
-44
 #EXTINF:-1,HOT HBO
-45
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6110.ts&amp;streamtype=TSDOWNLOADER&am&title=hothbo
-46
 #EXTINF:-1,HOT GOLD
-47
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5961.ts&amp;streamtype=TSDOWNLOADER&am&title=hotgold
-48
 #EXTINF:-1,HOT FUN
-49
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6109.ts&amp;streamtype=TSDOWNLOADER&am&title=hotfun
