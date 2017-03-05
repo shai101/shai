@@ -1,242 +1,95 @@
  
+2
           <item> 
+3
             <title>===== VIP Hebrew's =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name====== VIP Hebrew's =====</link> 
+4
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name====== VIP Hebrew's =====</link> 
+5
         </item> 
+6
           <item> 
+7
             <title> IBA Channel 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3298.ts&amp;streamtype=TSDOWNLOADER&amp;name= IBA Channel 1 HD</link> 
+8
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3298.ts&amp;streamtype=TSDOWNLOADER&amp;name= IBA Channel 1 HD</link> 
+9
         </item> 
+10
           <item> 
+11
             <title> Channel 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 2</link> 
+12
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 2</link> 
+13
         </item> 
+14
           <item> 
+15
             <title> Channel 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6105.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 9</link> 
+16
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6105.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 9</link> 
+17
         </item> 
+18
           <item> 
+19
             <title> Channel 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3300.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 10</link> 
+20
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3300.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 10</link> 
+21
         </item> 
+22
           <item> 
+23
             <title> Channel 20</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3301.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 20</link> 
+24
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3301.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 20</link> 
+25
         </item> 
+26
           <item> 
+27
             <title> Channel 22 News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8144.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 22 News</link> 
+28
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8144.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 22 News</link> 
+29
         </item> 
+30
           <item> 
+31
             <title> Channel 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3303.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 24</link> 
+32
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3303.ts&amp;streamtype=TSDOWNLOADER&amp;name= Channel 24</link> 
+33
         </item> 
+34
           <item> 
+35
             <title> ONE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5956.ts&amp;streamtype=TSDOWNLOADER&amp;name= ONE HD</link> 
+36
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5956.ts&amp;streamtype=TSDOWNLOADER&amp;name= ONE HD</link> 
+37
         </item> 
+38
           <item> 
+39
             <title> YES SPORT1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5958.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES SPORT1 HD</link> 
+40
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5958.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES SPORT1 HD</link> 
+41
         </item> 
+42
           <item> 
+43
             <title> YES SPORT2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5957.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES SPORT2 HD</link> 
+44
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5957.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES SPORT2 HD</link> 
+45
         </item> 
+46
           <item> 
+47
             <title> Fox Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3341.ts&amp;streamtype=TSDOWNLOADER&amp;name= Fox Sport HD</link> 
-        </item> 
-          <item> 
-            <title> Sport 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5955.ts&amp;streamtype=TSDOWNLOADER&amp;name= Sport 5 HD</link> 
-        </item> 
-          <item> 
-            <title> Sport 5  Live HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5959.ts&amp;streamtype=TSDOWNLOADER&amp;name= Sport 5  Live HD</link> 
-        </item> 
-          <item> 
-            <title> Sport 5 Online</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8140.ts&amp;streamtype=TSDOWNLOADER&amp;name= Sport 5 Online</link> 
-        </item> 
-          <item> 
-            <title> YES 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5954.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES 1 HD</link> 
-        </item> 
-          <item> 
-            <title> YES 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5953.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES 2 HD</link> 
-        </item> 
-          <item> 
-            <title> YES 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5952.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES 3 HD</link> 
-        </item> 
-          <item> 
-            <title> YES 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5951.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES 4 HD</link> 
-        </item> 
-          <item> 
-            <title> YES 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6100.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES 5 HD</link> 
-        </item> 
-          <item> 
-            <title> YES OH HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5947.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES OH HD</link> 
-        </item> 
-          <item> 
-            <title> YES ACTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5950.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES ACTION HD</link> 
-        </item> 
-          <item> 
-            <title> YES DRAMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5948.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES DRAMA HD</link> 
-        </item> 
-          <item> 
-            <title> YES DOCU HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6099.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES DOCU HD</link> 
-        </item> 
-          <item> 
-            <title> YES COMEDY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5949.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES COMEDY HD</link> 
-        </item> 
-          <item> 
-            <title> YES CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6098.ts&amp;streamtype=TSDOWNLOADER&amp;name= YES CINEMA HD</link> 
-        </item> 
-          <item> 
-            <title> HOT3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6106.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT3 HD</link> 
-        </item> 
-          <item> 
-            <title> HOT ZONE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6107.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT ZONE HD</link> 
-        </item> 
-          <item> 
-            <title> HOT DRAMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6108.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT DRAMA HD</link> 
-        </item> 
-          <item> 
-            <title> HOT ACTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5960.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT ACTION HD</link> 
-        </item> 
-          <item> 
-            <title> HOT HBO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6110.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT HBO HD</link> 
-        </item> 
-          <item> 
-            <title> HOT GOLD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/5961.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT GOLD HD</link> 
-        </item> 
-          <item> 
-            <title> HOT FUN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6109.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT FUN HD</link> 
-        </item> 
-          <item> 
-            <title> HOT Comedy Central HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6104.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT Comedy Central HD</link> 
-        </item> 
-          <item> 
-            <title> HOT Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6102.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT Entertainment</link> 
-        </item> 
-          <item> 
-            <title> zOOM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8146.ts&amp;streamtype=TSDOWNLOADER&amp;name= zOOM</link> 
-        </item> 
-          <item> 
-            <title> HOP IL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6114.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOP IL</link> 
-        </item> 
-          <item> 
-            <title> Home Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6103.ts&amp;streamtype=TSDOWNLOADER&amp;name= Home Plus</link> 
-        </item> 
-          <item> 
-            <title> Arutz HaYeladim Israel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/3340.ts&amp;streamtype=TSDOWNLOADER&amp;name= Arutz HaYeladim Israel</link> 
-        </item> 
-          <item> 
-            <title> HOT Channel 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8141.ts&amp;streamtype=TSDOWNLOADER&amp;name= HOT Channel 8</link> 
-        </item> 
-          <item> 
-            <title> VIVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6101.ts&amp;streamtype=TSDOWNLOADER&amp;name= VIVA</link> 
-        </item> 
-          <item> 
-            <title> Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6112.ts&amp;streamtype=TSDOWNLOADER&amp;name= Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title> Nick Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6113.ts&amp;streamtype=TSDOWNLOADER&amp;name= Nick Jr</link> 
-        </item> 
-          <item> 
-            <title> Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/6111.ts&amp;streamtype=TSDOWNLOADER&amp;name= Baby TV</link> 
-        </item> 
-          <item> 
-            <title> Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8143.ts&amp;streamtype=TSDOWNLOADER&amp;name= Junior</link> 
-        </item> 
-          <item> 
-            <title> IL Land</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7343.ts&amp;streamtype=TSDOWNLOADER&amp;name= IL Land</link> 
-        </item> 
-          <item> 
-            <title> Discovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7342.ts&amp;streamtype=TSDOWNLOADER&amp;name= Discovery HD</link> 
-        </item> 
-          <item> 
-            <title> History HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8142.ts&amp;streamtype=TSDOWNLOADER&amp;name= History HD</link> 
-        </item> 
-          <item> 
-            <title> National Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7344.ts&amp;streamtype=TSDOWNLOADER&amp;name= National Geo Wild</link> 
-        </item> 
-          <item> 
-            <title> Travel Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7340.ts&amp;streamtype=TSDOWNLOADER&amp;name= Travel Channel</link> 
-        </item> 
-          <item> 
-            <title> Food Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/7341.ts&amp;streamtype=TSDOWNLOADER&amp;name= Food Channel</link> 
-        </item> 
-          <item> 
-            <title>VIP UK: BT Sports 1 HD 1080P</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=VIP UK: BT Sports 1 HD 1080P</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8178.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>VIP UK: BT Sports 2 HD 1080P</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=VIP UK: BT Sports 2 HD 1080P</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8179.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>VIP UK: BT Sports 3 HD 1080P</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=VIP UK: BT Sports 3 HD 1080P</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8180.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: EuroSport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/1634.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EuroSport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: EuroSport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EuroSport 2</link> 
-        </item> 
-          <item> 
-            <title>VIP US: Fox News Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/mvzoPoSDTW/8840.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP US: Fox News Channel HD</link> 
-        </item> 
-  
+48
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3341.ts&amp;streamtype=TSDOWNLOADER&amp;name= Fox Sport HD</link> 
