@@ -47,3 +47,52 @@ http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddn
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5961.ts&amp;streamtype=TSDOWNLOADER&am&title=hotgold
 #EXTINF:-1,HOT FUN
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6109.ts&amp;streamtype=TSDOWNLOADER&am&title=hotfun
+#EXTINF:-1,HOT Entertainment
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6104.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,mtv live
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8871.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3340.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Nickelodeon
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6112.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Nick JR
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6113.ts&amp;streamtype=TSDOWNLOADER&am&title=1>
+#EXTINF:-1,BabyTV
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6111.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,National Geographic wild
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8825.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,national geographic hd
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8873.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Discovery World
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8827.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Discovery HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/7342.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,History CH
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8142.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,National Geo Wild
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/7344.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Travel Channel
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/7340.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Food Channel
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/7341.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,MTV
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8871.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,MTV Hits
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/7621.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,hot channel 8
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8141.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Sport ONE HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5956.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,YES SPORT1 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5958.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,YES SPORT2 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5957.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Sport 5 HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5955.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Sport 5 Live HD
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/5959.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,hop il
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6114.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+
+
+
+
