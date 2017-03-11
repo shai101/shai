@@ -51,6 +51,7 @@ http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddn
 http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6104.ts&amp;streamtype=TSDOWNLOADER&am&title=1
 #EXTINF:-1,mtv live
 http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/8871.ts&amp;streamtype=TSDOWNLOADER&am&title=1
+#EXTINF:-1,Arutz Hayeladim
 http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/3340.ts&amp;streamtype=TSDOWNLOADER&am&title=1
 #EXTINF:-1,Nickelodeon
 http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-iptv.ddns.net:8080/live/k7uhPz7Kgr/FC9iC56RcL/6112.ts&amp;streamtype=TSDOWNLOADER&am&title=1
